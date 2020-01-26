@@ -1,2 +1,2 @@
 # spyder
-Simple Python DebuggER
+**S**imple **PY**thon **D**ebugg**ER**
